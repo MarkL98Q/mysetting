@@ -1,0 +1,13 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Wine\Fonts\Replacements]
+"FangSong"="Adobe Fangsong Std R"
+"KaiTi"="Adobe Kaiti Std R"
+"Microsoft jhengHei"="Noto Sans S Chinese Regular"
+"Microsoft YaHei"="Noto Sans S Chinese Regular"
+"MingLiU"="DroidSansMono Nerd Font"
+"NSimSun"="DroidSansMono Nerd Font"
+"PMingLiU"="Adobe Fangsong Std R"
+"SimHei"="Noto Sans S Chinese Regular"
+"SimKai"="Adobe Kaiti Std R"
+"SimSun"="Adobe Song Std L"
